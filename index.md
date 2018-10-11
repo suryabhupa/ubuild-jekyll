@@ -16,8 +16,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Apply Now
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
+    alt_text: DFL x Jane St.
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
