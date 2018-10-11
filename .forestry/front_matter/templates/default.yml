@@ -1,5 +1,5 @@
 ---
-label: default
+label: Depth First Learning
 hide_body: false
 is_partial: false
 fields:
@@ -8,3 +8,7 @@ fields:
   type: text
   hidden: false
   default: default
+- type: color
+  config:
+    color_format: Hex
+  default: "#50E3C2"
