@@ -8,13 +8,13 @@ page_sections:
   logo: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: Depth First Learning Fellowship <br><strong>DFL x Jane Street</strong>
+  content: 'We''re launching the Depth First Learning Fellowship to help more students
+    and researchers lead their own independent study groups. '
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Apply Now
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
