@@ -8,6 +8,12 @@ fields:
   label: block
   name: block
   default: hero-2
+- type: color
+  name: background_color
+  config:
+    color_format: Hex
+  label: Background Color
+  default: "#50E3C2"
 - type: file
   name: background_image
   label: Background Image
