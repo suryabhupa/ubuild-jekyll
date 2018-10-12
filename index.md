@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: Depth First Learning Fellowship <br><strong>DFL x Jane Street</strong>
+  headline: "<strong>Depth First Learning Fellowship</strong>"
   content: 'We''re launching the Depth First Learning Fellowship to help more students
     and researchers lead their own independent study groups. '
   cta:
