@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Depth First Learning Fellowship
-date: 2018-11-05 23:00:00 +0000
+date: 2018-11-20 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
@@ -48,10 +48,6 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
