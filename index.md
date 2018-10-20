@@ -23,14 +23,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: A year ago, we reimagined how we study deep topics in machine learning
-    and designed <a href="https://www.depthfirstlearning.com/">Depth First Learning</a>,
-    a pedagogy for studying ML fundamentals towards understanding important papers.
-    Examples include <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
+  headline: A year ago, we reimagined how we study deep topics in machine learning.
+  content: ' We designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
+    First Learning</strong></a>, a pedagogy for studying ML fundamentals towards understanding
+    important papers. Examples include <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
     <a href="http://www.depthfirstlearning.com/2018/TRPO">TRPO</a>, <a href="http://www.depthfirstlearning.com/2018/AlphaGoZero">AlphaGoZero</a>,
-    and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+    and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>'
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
