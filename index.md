@@ -52,32 +52,21 @@ page_sections:
       of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
       - we can use a lot more resources like this in our community."</em></strong>'
     headline: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+- template: detail-content
+  block: text-1
+  headline: 'Here''s how DFL works:'
+  content: "<ol><li><p>A small self-contained group convenes to understand a particular
+    paper in depth with one or two preselected group guides.</p></li><li><p>The guides
+    plan ahead, writing a document that maps the dependencies from the target paper
+    back to sound source material and problems sets.</p></li><li><p>The group discusses
+    the dependencies over 5-6 weekly sessions. They write up solutions to problems
+    and add comments on the document itself, creating a living representation of their
+    understanding.</p></li></ol>"
 - template: 1-column-text
   block: one-column-1
   headline: Growing Depth First Learning -- with your help!
   content: Since our launch, we’ve received very positive feedback from students and
     researchers around the world. Now, we want to run new classes around the world.
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
