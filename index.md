@@ -62,12 +62,9 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: We designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
-    First Learning</strong></a>, a pedagogy for studying ML fundamentals towards understanding
-    important papers. Examples include <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
-    <a href="http://www.depthfirstlearning.com/2018/TRPO">TRPO</a>, <a href="http://www.depthfirstlearning.com/2018/AlphaGoZero">AlphaGoZero</a>,
-    and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>
+  headline: Growing Depth First Learning -- with your help!
+  content: Since our launch, we’ve received very positive feedback from students and
+    researchers around the world. Now, we want to run new classes around the world.
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
