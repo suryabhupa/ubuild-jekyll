@@ -41,6 +41,7 @@ page_sections:
       <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
       fundamental topics building up to important machine learning papers, at depth."</em></strong>'
     undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
+    headline: Hello
   col_2:
     content: '<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
       Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
