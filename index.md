@@ -44,7 +44,7 @@ page_sections:
     content: '<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
       Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
       WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
-    headline: Quote 2
+    headline: ''
   col_3:
     content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
       of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
