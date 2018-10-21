@@ -60,9 +60,9 @@ page_sections:
     writing a document that maps the dependencies from the target paper back to sound
     source material and problems sets.<br><br>3. The group discusses the dependencies
     over 5-6 weekly sessions. They write up solutions to problems and add comments
-    on the document itself, creating a living representation of their understanding.<br><br>At
+    on the document itself, creating a living representation of their understanding.<br><br><strong>At
     the end, the document is made public, and all of the credit goes to the guides
-    and the group.
+    and the group.</strong>
   headline: Here's how DFL works
 - template: content-feature
   block: feature-1
