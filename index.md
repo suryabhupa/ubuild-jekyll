@@ -67,7 +67,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: 'Growing DFL -- with your help! '
+  headline: Growing DFL with your help.
   content: Since our launch, we’ve received very positive feedback from students and
     researchers around the world. Now, we want to run new classes around the world.
 - template: 1-column-text
