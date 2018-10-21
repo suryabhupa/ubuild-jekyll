@@ -79,8 +79,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Depth First Learning Fellowship
-  content: "<strong>We want to enable motivated students to lead independent study
-    groups and help them compile their work in a organized fashion.</strong>"
+  content: We want to enable motivated students to lead independent study groups and
+    help them compile their work in a organized fashion [better suited here?]
 - template: simple-footer
   block: footer-1
   content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
