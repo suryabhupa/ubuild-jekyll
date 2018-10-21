@@ -14,6 +14,7 @@ fields:
     color_format: Hex
   label: Background Color
   default: "#50E3C2"
+- type: file
 - type: textarea
   name: headline
   label: Headline
