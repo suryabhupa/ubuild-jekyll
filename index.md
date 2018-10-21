@@ -36,13 +36,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: A small self-contained group convenes to understand a particular paper
-    in depth with one or two preselected group guides.<br><br>The guides plan ahead,
+  content: 1. A small self-contained group convenes to understand a particular paper
+    in depth with one or two preselected group guides.<br><br>2. The guides plan ahead,
     writing a document that maps the dependencies from the target paper back to sound
-    source material and problems sets.<br><br>The group discusses the dependencies
+    source material and problems sets.<br><br>3. The group discusses the dependencies
     over 5-6 weekly sessions. They write up solutions to problems and add comments
     on the document itself, creating a living representation of their understanding.
-  headline: 'Here''s how DFL works:'
+  headline: Here's how DFL works
 - template: 3-column-text
   block: three-column-1
   col_1:
