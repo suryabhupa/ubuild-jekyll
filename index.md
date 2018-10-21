@@ -49,7 +49,7 @@ page_sections:
     content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
       of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
       - we can use a lot more resources like this in our community."</em></strong>'
-    headline: Quote 3
+    headline: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
