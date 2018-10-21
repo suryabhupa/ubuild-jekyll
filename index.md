@@ -62,16 +62,6 @@ page_sections:
       of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
       - we can use a lot more resources like this in our community."</em></strong>'
     headline: ''
-- template: detail-content
-  block: text-1
-  headline: Here's how DFL works
-  content: "<ol><li><p>A small self-contained group convenes to understand a particular
-    paper in depth with one or two preselected group guides.</p></li><li><p>The guides
-    plan ahead, writing a document that maps the dependencies from the target paper
-    back to sound source material and problems sets.</p></li><li><p>The group discusses
-    the dependencies over 5-6 weekly sessions. They write up solutions to problems
-    and add comments on the document itself, creating a living representation of their
-    understanding.</p></li></ol>"
 - template: 1-column-text
   block: one-column-1
   headline: Growing Depth First Learning -- with your help!
