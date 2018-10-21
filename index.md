@@ -70,6 +70,11 @@ page_sections:
   headline: Growing DFL with your help.
   content: Since our launch, we’ve received very positive feedback from students and
     researchers around the world. Now, we want to run new classes around the world.<br><br>
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: We want to enable motivated students to lead independent study groups and
+    help them compile their work in a organized fashion.
 - template: 1-column-text
   block: one-column-1
   headline: Depth First Learning Fellowship
