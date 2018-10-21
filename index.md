@@ -63,9 +63,11 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  content: We designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
+    First Learning</strong></a>, a pedagogy for studying ML fundamentals towards understanding
+    important papers. Examples include <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
+    <a href="http://www.depthfirstlearning.com/2018/TRPO">TRPO</a>, <a href="http://www.depthfirstlearning.com/2018/AlphaGoZero">AlphaGoZero</a>,
+    and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
