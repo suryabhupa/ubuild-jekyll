@@ -75,6 +75,7 @@ page_sections:
   media_alignment: Right
   content: We want to enable motivated students to lead independent study groups and
     help them compile their work in a organized fashion.
+  headline: "<strong>Depth First Learning Fellowship</strong>"
 - template: 1-column-text
   block: one-column-1
   headline: Depth First Learning Fellowship
