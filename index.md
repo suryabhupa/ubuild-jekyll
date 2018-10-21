@@ -19,7 +19,7 @@ page_sections:
     image: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
     alt_text: DFL x Jane St.
   background_image: ''
-  background_color: "#50E3C2"
+  background_color: "#50B2E3"
 - template: content-feature
   block: feature-1
   media_alignment: Right
