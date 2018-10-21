@@ -14,19 +14,6 @@ fields:
     color_format: Hex
   label: Background Color
   default: "#50E3C2"
-- type: file
-  name: background_image
-  label: Background Image
-- type: field_group
-  name: image
-  label: Image
-  fields:
-  - type: file
-    name: image
-    label: Image
-  - type: text
-    name: alt_text
-    label: Alt Text
 - type: textarea
   name: headline
   label: Headline
