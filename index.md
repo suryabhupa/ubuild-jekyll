@@ -33,6 +33,13 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: '<span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
+      Research Scientist, Google Brain, first author of “Attention is all you need”):
+      <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
+      fundamental topics building up to important machine learning papers, at depth."</em></strong>'
 - template: content-feature
   block: feature-1
   media_alignment: Right
