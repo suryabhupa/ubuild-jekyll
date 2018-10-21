@@ -23,7 +23,7 @@ page_sections:
   undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: A year ago, we reimagined how we study deep topics in machine learning.
   content: ' We designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
     First Learning</strong></a>, a pedagogy for studying ML fundamentals towards understanding
