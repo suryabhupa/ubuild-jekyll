@@ -83,7 +83,7 @@ page_sections:
     groups and help them compile their work in a organized fashion.</strong>"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>.
 
 ---
 foo bar
