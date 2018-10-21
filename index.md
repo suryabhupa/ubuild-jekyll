@@ -72,7 +72,7 @@ page_sections:
     researchers around the world. Now, we want to run new classes around the world.<br><br>
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   content: We want to enable motivated students to lead independent study groups and
     help them compile their work in a organized fashion.
   headline: "<strong>Depth First Learning Fellowship</strong>"
