@@ -69,7 +69,7 @@ page_sections:
   media_alignment: Right
   headline: Growing DFL with your help.
   content: Since our launch, we’ve received very positive feedback from students and
-    researchers around the world. Now, we want to run new classes around the world.
+    researchers around the world. Now, we want to run new classes around the world.<br><br>
 - template: 1-column-text
   block: one-column-1
   headline: Depth First Learning Fellowship
