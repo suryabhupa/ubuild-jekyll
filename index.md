@@ -21,6 +21,25 @@ page_sections:
   background_image: ''
   background_color: "#50B2E3"
   undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: '<span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
+      Research Scientist, Google Brain, first author of “Attention is all you need”):
+      <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
+      fundamental topics building up to important machine learning papers, at depth."</em></strong>'
+    undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
+    headline: ''
+  col_2:
+    content: '<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
+      Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
+      WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
+    headline: ''
+  col_3:
+    content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
+      of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
+      - we can use a lot more resources like this in our community."</em></strong>'
+    headline: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -41,27 +60,13 @@ page_sections:
     writing a document that maps the dependencies from the target paper back to sound
     source material and problems sets.<br><br>3. The group discusses the dependencies
     over 5-6 weekly sessions. They write up solutions to problems and add comments
-    on the document itself, creating a living representation of their understanding.
+    on the document itself, creating a living representation of their understanding.<br><br>At
+    the end, the document is made public, and all of the credit goes to the guides
+    and the group.
   headline: Here's how DFL works
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: '<span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
-      Research Scientist, Google Brain, first author of “Attention is all you need”):
-      <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
-      fundamental topics building up to important machine learning papers, at depth."</em></strong>'
-    undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
-    headline: ''
-  col_2:
-    content: '<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
-      Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
-      WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
-    headline: ''
-  col_3:
-    content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
-      of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
-      - we can use a lot more resources like this in our community."</em></strong>'
-    headline: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
 - template: 1-column-text
   block: one-column-1
   headline: Growing Depth First Learning -- with your help!
