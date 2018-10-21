@@ -35,7 +35,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   content: 1. A small self-contained group convenes to understand a particular paper
     in depth with one or two preselected group guides.<br><br>2. The guides plan ahead,
     writing a document that maps the dependencies from the target paper back to sound
