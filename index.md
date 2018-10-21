@@ -54,7 +54,7 @@ page_sections:
     headline: ''
 - template: detail-content
   block: text-1
-  headline: 'Here''s how DFL works:'
+  headline: Here's how DFL works
   content: "<ol><li><p>A small self-contained group convenes to understand a particular
     paper in depth with one or two preselected group guides.</p></li><li><p>The guides
     plan ahead, writing a document that maps the dependencies from the target paper
