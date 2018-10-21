@@ -72,9 +72,9 @@ page_sections:
     researchers around the world. Now, we want to run new classes around the world.
 - template: 1-column-text
   block: one-column-1
-  headline: Growing Depth First Learning -- with your help!
-  content: Since our launch, we’ve received very positive feedback from students and
-    researchers around the world. Now, we want to run new classes around the world.
+  headline: Depth First Learning Fellowship
+  content: We want to enable motivated students to lead independent study groups and
+    help them compile their work in a organized fashion.
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
