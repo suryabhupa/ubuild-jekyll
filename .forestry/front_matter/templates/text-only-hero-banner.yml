@@ -3,6 +3,12 @@ label: text-only-hero-banner
 hide_body: false
 is_partial: true
 fields:
+- type: color
+  name: background
+  config:
+    color_format: Hex
+  label: Background Color
+  default: "#69EEFD"
 - type: text
   hidden: false
   label: block
