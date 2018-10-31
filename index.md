@@ -97,11 +97,6 @@ page_sections:
   block: footer-1
   content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
     for more information!
-- template: hello-test
-  undefined: asdfasdfasdf
-  asdf3:
-  - template: text-only-hero-banner
-    block: hero-1
 
 ---
 foo bar
