@@ -64,6 +64,15 @@ page_sections:
     the end, the document is made public, and all of the credit goes to the guides
     and the group.</strong>
   headline: Here's how DFL works
+- template: detail-content
+  block: text-1
+  headline: 'alsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdf '
+  content: "<p>alsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas
+    alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd
+    fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas
+    alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd
+    fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas
+    alsdkfj as df asdf asd fas dfasdf</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
