@@ -21,11 +21,6 @@ page_sections:
   background_image: ''
   background_color: "#50B2E3"
   undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
-- template: detail-content
-  block: text-1
-  headline: Who are we?
-  content: "<p>Hi! We are Avital, Surya, and Cinjon, researchers from Google Brain,
-    DeepMind, FAIR, and NYU. </p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -75,8 +70,9 @@ page_sections:
     undefined: "/uploads/2018/10/31/user.png"
 - template: text-only-hero-banner
   block: hero-1
-  heading: 'We are '
   background: "#66FDF8"
+  heading: 'We are now starting the DFL Fellowship to enable motivated leaders to
+    lead their own discussion groups. '
 - template: content-feature
   block: feature-1
   media_alignment: Right
