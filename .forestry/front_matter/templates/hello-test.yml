@@ -1,0 +1,12 @@
+---
+label: hello-test
+hide_body: false
+is_partial: true
+fields:
+- type: textarea
+  default: hello
+- type: blocks
+  template_types:
+  - text-only-hero-banner
+  label: asdf3
+  name: asdf3
