@@ -30,11 +30,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: A year ago, we reimagined how we study deep topics in machine learning.
-  content: ' We designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
+  content: We designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
     First Learning</strong></a>, a pedagogy for studying ML fundamentals towards understanding
     important papers. Examples include <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
     <a href="http://www.depthfirstlearning.com/2018/TRPO">TRPO</a>, <a href="http://www.depthfirstlearning.com/2018/AlphaGoZero">AlphaGoZero</a>,
-    and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>'
+    and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>
   media:
     image: ''
     alt_text: ''
@@ -75,7 +75,7 @@ page_sections:
     undefined: "/uploads/2018/10/31/user.png"
 - template: text-only-hero-banner
   block: hero-1
-  heading: Welcome!!!!!!!!!
+  heading: 'We are '
   background: "#66FDF8"
 - template: content-feature
   block: feature-1
