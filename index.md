@@ -21,8 +21,6 @@ page_sections:
   background_image: ''
   background_color: "#50B2E3"
   undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
-- template: simple-header
-  block: header-3
 - template: hero-banner-w-image
   block: hero-2
   background_color: "#50E3C2"
