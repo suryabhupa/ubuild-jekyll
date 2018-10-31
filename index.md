@@ -47,6 +47,12 @@ page_sections:
   headline: Here's how DFL works
   media:
     image: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Growing DFL with your help.
+  content: Since our launch, we’ve received very positive feedback from students and
+    researchers around the world. Now, we want to run new classes around the world.<br><br>
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -75,21 +81,17 @@ page_sections:
     Fellowship!</span>'
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: Growing DFL with your help.
-  content: Since our launch, we’ve received very positive feedback from students and
-    researchers around the world. Now, we want to run new classes around the world.<br><br>
-- template: content-feature
-  block: feature-1
   media_alignment: Left
   content: We want to enable motivated students to lead independent study groups and
     help them compile their work in a organized fashion.
-  headline: "<strong>Depth First Learning Fellowship</strong>"
+  headline: "<strong>Depth First Learning Fellowship. </strong>"
 - template: 1-column-text
   block: one-column-1
   headline: Depth First Learning Fellowship
   content: We want to enable motivated students to lead independent study groups and
     help them compile their work in a organized fashion [better suited here?]
+- template: 1-column-text
+  block: one-column-1
 - template: simple-footer
   block: footer-1
   content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
