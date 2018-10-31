@@ -24,7 +24,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Who are we?
-  content: "<p></p>"
+  content: "<p>Hi! We are Avital, Surya, and Cinjon, researchers from Google Brain,
+    DeepMind, FAIR, and NYU. </p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
