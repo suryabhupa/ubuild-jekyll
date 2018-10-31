@@ -21,25 +21,10 @@ page_sections:
   background_image: ''
   background_color: "#50B2E3"
   undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    content: '<span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
-      Research Scientist, Google Brain, first author of “Attention is all you need”):
-      <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
-      fundamental topics building up to important machine learning papers, at depth."</em></strong>'
-    undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
-    headline: ''
-  col_2:
-    content: '<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
-      Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
-      WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
-    headline: ''
-  col_3:
-    content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
-      of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
-      - we can use a lot more resources like this in our community."</em></strong>'
-    headline: ''
+- template: detail-content
+  block: text-1
+  headline: Who are we?
+  content: "<p></p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -64,15 +49,25 @@ page_sections:
     the end, the document is made public, and all of the credit goes to the guides
     and the group.</strong>
   headline: Here's how DFL works
-- template: detail-content
-  block: text-1
-  headline: 'alsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdf '
-  content: "<p>alsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas
-    alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd
-    fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas
-    alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd
-    fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas
-    alsdkfj as df asdf asd fas dfasdf</p>"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: '<span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
+      Research Scientist, Google Brain, first author of “Attention is all you need”):
+      <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
+      fundamental topics building up to important machine learning papers, at depth."</em></strong>'
+    undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
+    headline: ''
+  col_2:
+    content: '<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
+      Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
+      WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
+    headline: ''
+  col_3:
+    content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
+      of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
+      - we can use a lot more resources like this in our community."</em></strong>'
+    headline: ''
 - template: text-only-hero-banner
   block: hero-1
   heading: Welcome!!!!!!!!!
