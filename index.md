@@ -73,6 +73,9 @@ page_sections:
     alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd
     fas dfasdfalsdjflaksjdflkasdlfkas alsdkfj as df asdf asd fas dfasdfalsdjflaksjdflkasdlfkas
     alsdkfj as df asdf asd fas dfasdf</p>"
+- template: text-only-hero-banner
+  block: hero-1
+  heading: Welcome!!!!!!!!!
 - template: content-feature
   block: feature-1
   media_alignment: Right
