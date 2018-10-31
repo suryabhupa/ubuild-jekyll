@@ -3,11 +3,6 @@ label: page-builder
 hide_body: true
 is_partial: false
 fields:
-- type: color
-  name: color-picker
-  config:
-    color_format: Hex
-  label: color-picker
 - type: text
   label: Title
   name: title
