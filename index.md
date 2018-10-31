@@ -94,6 +94,10 @@ page_sections:
     a particular paper or concept in machine learning.<br><br>More specifically, we
     want to provide resources for guides to construct a 4-6 week, high-quality curriculum
     to lead a small group of students remotely over video conferences. '
+- template: detail-content
+  block: text-1
+  headline: 'We want to support more people in producing high-quality curricula for
+    machine learning concepts and papers. '
 - template: simple-footer
   block: footer-1
   content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
