@@ -1,0 +1,14 @@
+---
+label: plain-text-area
+hide_body: false
+is_partial: true
+fields:
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: false
+  hidden: false
+  label: asdfasdf
+  name: asdfasdf
