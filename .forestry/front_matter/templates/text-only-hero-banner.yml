@@ -4,10 +4,12 @@ hide_body: false
 is_partial: true
 fields:
 - type: text
-  hidden: true
+  hidden: false
   label: block
   name: block
   default: hero-1
+  config:
+    required: false
 - type: textarea
   config:
     wysiwyg: true
