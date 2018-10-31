@@ -18,3 +18,6 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
+- type: text
+  config:
+    required: false
