@@ -52,7 +52,8 @@ page_sections:
   media_alignment: Right
   headline: Growing DFL with your help.
   content: Since our launch, we’ve received very positive feedback from students and
-    researchers around the world. Now, we want to run new classes around the world.<br><br>
+    researchers around the world. Now, we want to run new, online classes around the
+    world.<br><br>
 - template: 3-column-text
   block: three-column-1
   col_1:
