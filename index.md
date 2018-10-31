@@ -21,11 +21,6 @@ page_sections:
   background_image: ''
   background_color: "#50B2E3"
   undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
-- template: hero-banner-w-image
-  block: hero-2
-  background_color: "#50E3C2"
-  headline: Fellowship Details!
-  content: consider the following sum!
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -81,6 +76,9 @@ page_sections:
   content: We want to enable motivated students to lead independent study groups and
     help them compile their work in a organized fashion.
   headline: "<strong>Depth First Learning Fellowship</strong>"
+- template: hero-banner-w-image
+  block: hero-2
+  background_color: "#50E3C2"
 - template: 1-column-text
   block: one-column-1
   headline: Depth First Learning Fellowship
