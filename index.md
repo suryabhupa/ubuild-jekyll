@@ -64,11 +64,13 @@ page_sections:
       Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
       WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
     headline: ''
+    undefined: "/uploads/2018/10/31/user.png"
   col_3:
     content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
       of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
       - we can use a lot more resources like this in our community."</em></strong>'
     headline: ''
+    undefined: "/uploads/2018/10/31/user.png"
 - template: text-only-hero-banner
   block: hero-1
   heading: Welcome!!!!!!!!!
