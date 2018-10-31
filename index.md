@@ -36,7 +36,7 @@ page_sections:
     <a href="http://www.depthfirstlearning.com/2018/TRPO">TRPO</a>, <a href="http://www.depthfirstlearning.com/2018/AlphaGoZero">AlphaGoZero</a>,
     and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>'
   media:
-    image: ''
+    image: "/uploads/2018/10/31/document.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
