@@ -18,6 +18,11 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - text-column
+  - text-1
+  - text-only-hero-banner
+  - hello-test
+  - hero-3
   - navigation-header
   - navigation-header-w-button
   - simple-header
