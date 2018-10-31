@@ -50,6 +50,8 @@ page_sections:
     the end, the document is made public, and all of the credit goes to the guides
     and the group.</strong>
   headline: Here's how DFL works
+  media:
+    image: "/uploads/2018/10/31/document.png"
 - template: 3-column-text
   block: three-column-1
   col_1:
