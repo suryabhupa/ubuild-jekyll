@@ -1,7 +1,7 @@
 ---
 label: text-only-hero-banner
 hide_body: false
-is_partial: true
+is_partial: false
 fields:
 - type: text
   hidden: false
