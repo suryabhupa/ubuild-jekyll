@@ -11,6 +11,6 @@ fields:
 - type: color
   config:
     color_format: Hex
-  default: "#50E3C2"
+  default: "#50D4E3"
 pages:
 - depth-first-learning.md
