@@ -86,15 +86,6 @@ page_sections:
   content: We want to enable motivated students to lead independent study groups and
     help them compile their work in a organized fashion.
   headline: "<strong>Depth First Learning Fellowship. </strong>"
-- template: 1-column-text
-  block: one-column-1
-  headline: 'We want to support more people in producing high-quality curricula for
-    machine learning concepts and papers. '
-  content: 'As part of our fellowship, we''re awarding <strong>$5000</strong> to motivated
-    students or researchers to lead their own small discussion group centered around
-    a particular paper or concept in machine learning.<br><br>More specifically, we
-    want to provide resources for guides to construct a 4-6 week, high-quality curriculum
-    to lead a small group of students remotely over video conferences. '
 - template: detail-content
   block: text-1
   headline: 'We want to support more people in producing high-quality curricula for
