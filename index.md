@@ -71,8 +71,8 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   background: "#66FDF8"
-  heading: 'We are now starting the DFL Fellowship to enable motivated leaders to
-    lead their own discussion groups. '
+  heading: "<strong>We are now launching the DFL Fellowship.</strong> <br><br>We want
+    to enable motivated leaders to lead their own discussion groups. "
 - template: content-feature
   block: feature-1
   media_alignment: Right
