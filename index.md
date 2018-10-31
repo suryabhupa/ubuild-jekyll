@@ -51,7 +51,8 @@ page_sections:
     and the group.</strong>
   headline: Here's how DFL works
   media:
-    image: "/uploads/2018/10/31/document.png"
+    image: ''
+- template: plain-text-area
 - template: 3-column-text
   block: three-column-1
   col_1:
