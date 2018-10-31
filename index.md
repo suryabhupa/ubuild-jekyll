@@ -53,6 +53,7 @@ page_sections:
   media:
     image: ''
 - template: plain-text-area
+  asdfasdf: 'Hello, what''s up? We are Avital, Surya, and Cinjon. '
 - template: 3-column-text
   block: three-column-1
   col_1:
