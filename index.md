@@ -88,9 +88,6 @@ page_sections:
   content: We want to enable motivated students to lead independent study groups and
     help them compile their work in a organized fashion.
   headline: "<strong>Depth First Learning Fellowship</strong>"
-- template: hero-banner-w-image
-  block: hero-2
-  background_color: "#50E3C2"
 - template: 1-column-text
   block: one-column-1
   headline: Depth First Learning Fellowship
@@ -100,6 +97,11 @@ page_sections:
   block: footer-1
   content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
     for more information!
+- template: hello-test
+  undefined: hello
+  asdf3:
+  - template: text-only-hero-banner
+    block: hero-1
 
 ---
 foo bar
