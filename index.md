@@ -98,7 +98,7 @@ page_sections:
   block: footer-1
   content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
     for more information!
-color-picker: "#47FFE4"
+color-picker: "#FF4747"
 
 ---
 foo bar
