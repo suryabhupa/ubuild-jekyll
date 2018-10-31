@@ -3,6 +3,11 @@ label: page-builder
 hide_body: true
 is_partial: false
 fields:
+- type: color
+  name: color-picker
+  config:
+    color_format: Hex
+  label: color-picker
 - type: text
   label: Title
   name: title
@@ -18,6 +23,7 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - plain-text-area
   - text-column
   - text-1
   - text-only-hero-banner
