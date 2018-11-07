@@ -27,9 +27,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: A year ago, we reimagined how we study deep topics in machine learning.
-  content: We designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
-    First Learning</strong></a>, a pedagogy for studying ML fundamentals towards understanding
-    important papers. Examples include <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
+  content: As part of our time during the Google AI Residency, we wanted to find a
+    better way to study and understand important machine learning papers and ideas.
+    To this end, we designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
+    First Learning</strong></a>, a pedagogy for diving deep by carefully tailoring
+    a curriculum around a particular ML paper or concept. Examples include <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
     <a href="http://www.depthfirstlearning.com/2018/TRPO">TRPO</a>, <a href="http://www.depthfirstlearning.com/2018/AlphaGoZero">AlphaGoZero</a>,
     and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>
   media:
