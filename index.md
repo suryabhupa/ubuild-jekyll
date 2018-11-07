@@ -86,7 +86,7 @@ page_sections:
       Chen</span> (CEO of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome
       initiative - we can use a lot more resources like this in our community."</em></strong>'
     headline: ''
-    undefined: uploads/2018/10/31/user.png
+    undefined: "/uploads/2018/11/07/peter.jpg"
 - template: 1-column-text
   block: one-column-1
   background: "#999999"
