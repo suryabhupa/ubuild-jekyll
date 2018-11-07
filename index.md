@@ -61,6 +61,8 @@ page_sections:
   content: Since our launch, we’ve received very positive feedback from students and
     researchers around the world. Now, we want to run new, online classes around the
     world.<br><br>
+  media:
+    image: "/uploads/2018/11/07/Screen Shot 2018-11-07 at 6.45.38 PM.png"
 - template: 3-column-text
   block: three-column-1
   col_1:
