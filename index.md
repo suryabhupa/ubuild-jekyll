@@ -66,11 +66,10 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: '<span style="text-decoration: underline;"><img src="/uploads/2018/10/31/like.png"><br><br>Ashish
-      Vaswani</span> (Senior Research Scientist, Google Brain, first author of “Attention
-      is all you need”): <strong><em>"This is so wonderful -- finally, a one stop
-      shop for understanding fundamental topics building up to important machine learning
-      papers, at depth."</em></strong>'
+    content: '<span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
+      Research Scientist, Google Brain, first author of “Attention is all you need”):
+      <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
+      fundamental topics building up to important machine learning papers, at depth."</em></strong>'
     undefined: "/uploads/2018/10/31/star.png"
     headline: Hello!
   col_2:
