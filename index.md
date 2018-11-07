@@ -21,7 +21,7 @@ page_sections:
     image: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
     alt_text: DFL x Jane St.
   background_image: ''
-  background_color: "#50B2E3"
+  background_color: "#68BAE3"
   undefined: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
 - template: content-feature
   block: feature-1
@@ -90,21 +90,36 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   background: "#999999"
-  headline: "<hr/> <br/>\t<span style='font-size: 200%'>Announcing the Depth First
-    Learning Fellowship</span>"
-  content: "<div style='background-color: #ffc; padding-top: 20px; padding-bottom:
-    20px; width; 700px;'><div style='max-width: 660px; margin-right: auto; margin-left:
-    auto'><p>We are looking for guides to lead new DFL study groups, each based around
-    a high-quality curricula for a particular paper or concept in machine learning.
-    </p> <br /> <p> Towards this end, we are launching the Depth First Learning fellowship.
-    Chosen fellows will each be given a <strong>$4000 grant</strong>, to help them
-    design the curricula for a DFL class, that will be held over 4-6 weeks remotely
-    over video conferencing. </p> <br /> <p> We will support each group by finding
-    6-8 motivated students with the relevant background experience, and connecting
-    fellows with experts in the field to act as advisors.</p></div></div><br/><br/><hr/>"
+  headline: "<hr/> <br/>	<span style='font-size: 200%'>Announcing the Depth First Learning Fellowship</span>"
+  content: "<div style='background-color: #ffd; padding-top: 30px; padding-bottom: 40px; max-width: 740px; margin-left: auto; margin-right: auto; padding-left: 30px; padding-right: 30px';><div style='max-width: 660px; margin-right: auto; margin-left: auto'><p>We are looking for guides to lead new DFL study groups, each based around
+a high-quality curricula for a particular paper or concept in machine learning.
+</p>
+<br />
+<p>
+Towards this end, we are launching
+the Depth First Learning fellowship. Chosen fellows will each be given a <strong>$4000 grant</strong>,
+to help them design the curricula for a DFL class, that will be held over 4-6 weeks remotely over video conferencing.
+</p>
+<br />
+<p>
+We will support each group by finding
+6-8 motivated students with the relevant background experience, and connecting fellows
+with
+experts in the field to act as advisors.</p>
+<br/>
+<p>
+<strong>A great candidate would:</strong><br/>
+Brains<br/>
+Brawns<br/>
+
+<br />
+<p>
+<a class='button primary' href='/foo' target='_blank'>Apply Now</a>
+</p>
+</div></div><br/><br/><hr/>"
 - template: simple-footer
   block: footer-1
-  content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
+  content: Feel free to reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
     for more information!
 color-picker: "#FF4747"
 
