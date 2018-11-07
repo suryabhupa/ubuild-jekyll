@@ -9,8 +9,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Depth First Learning Fellowship
-  content: 'We''re launching the Depth First Learning Fellowship to help more students
-    and researchers lead their own independent study groups. '
+  content: We're Avital, Surya, and Cinjon from Google Brain, DeepMind, FAIR, and
+    NYU, and we're launching the <strong>Depth First Learning Fellowship</strong>
+    to help more students and researchers lead their own independent study groups.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
