@@ -53,7 +53,7 @@ page_sections:
     of the credit goes to the guides and the group.</strong>
   headline: Here's how DFL works
   media:
-    image: ''
+    image: "/uploads/2018/11/07/Screen Shot 2018-11-07 at 6.38.24 PM.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
