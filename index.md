@@ -74,12 +74,12 @@ page_sections:
     headline: ''
     undefined: "/uploads/2018/11/07/ashish.jpeg"
   col_2:
-    content: '<img src="/ubuild-jekyll/uploads/2018/10/31/user.png" style="max-width:
-      100%; max-height: 100%" /> <span style="text-decoration: underline;">Nal Kalchbrenner</span>
-      (Staff Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
-      WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
+    content: '<img src="/ubuild-jekyll/uploads/2018/10/31/user.png"> <span style="text-decoration:
+      underline;">Nal Kalchbrenner</span> (Staff Research Scientist, Google Brain,
+      ex-DeepMind, author of PixelRNN, WaveNet, WaveRNN): <strong><em>“You’re building
+      the book on modern machine learning.”</em></strong>'
     headline: ''
-    undefined: uploads/2018/10/31/user.png
+    undefined: "/uploads/2018/11/07/nal.jpeg"
   col_3:
     content: '<img src="/ubuild-jekyll/uploads/2018/10/31/user.png" style="max-width:
       100%; max-height: 100%" /> <span style="text-decoration: underline;">Peter (Xi)
