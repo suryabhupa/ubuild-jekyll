@@ -66,20 +66,23 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: '<img src="/ubuild-jekyll/uploads/2018/10/31/user.png" style="max-width: 100%; max-height: 100%" /><span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
+    content: '<img src="/ubuild-jekyll/uploads/2018/10/31/user.png" style="max-width: 100%; max-height: 100%" />
+<span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
       Research Scientist, Google Brain, first author of “Attention is all you need”):
       <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
       fundamental topics building up to important machine learning papers, at depth."</em></strong>'
     headline: ''
     undefined: "uploads/2018/10/31/user.png"
   col_2:
-    content: '<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
+    content: '<img src="/ubuild-jekyll/uploads/2018/10/31/user.png" style="max-width: 100%; max-height: 100%" />
+<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
       Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
       WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
     headline: ''
     undefined: "uploads/2018/10/31/user.png"
   col_3:
-    content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
+    content: '<img src="/ubuild-jekyll/uploads/2018/10/31/user.png" style="max-width: 100%; max-height: 100%" />
+<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
       of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
       - we can use a lot more resources like this in our community."</em></strong>'
     headline: ''
