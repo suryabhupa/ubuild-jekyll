@@ -31,7 +31,8 @@ page_sections:
     better way to study and understand important machine learning papers and ideas.
     To this end, we designed <a href="https://www.depthfirstlearning.com/"><strong>Depth
     First Learning</strong></a>, a pedagogy for diving deep by carefully tailoring
-    a curriculum around a particular ML paper or concept. Examples include <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
+    a curriculum around a particular ML paper or concept and leading small, focused
+    discussion groups. So far, we've created guides for <a href="http://www.depthfirstlearning.com/2018/InfoGAN">InfoGAN</a>,
     <a href="http://www.depthfirstlearning.com/2018/TRPO">TRPO</a>, <a href="http://www.depthfirstlearning.com/2018/AlphaGoZero">AlphaGoZero</a>,
     and <a href="http://www.depthfirstlearning.com/2018/DeepStack">DeepStack</a><strong>.</strong>
   media:
