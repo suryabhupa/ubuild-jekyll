@@ -66,44 +66,43 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    content: '<span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
+    content: '<img src="/ubuild-jekyll/uploads/2018/10/31/user.png" style="max-width: 100%; max-height: 100%" /><span style="text-decoration: underline;">Ashish Vaswani</span> (Senior
       Research Scientist, Google Brain, first author of “Attention is all you need”):
       <strong><em>"This is so wonderful -- finally, a one stop shop for understanding
       fundamental topics building up to important machine learning papers, at depth."</em></strong>'
-    undefined: "/uploads/2018/10/31/star.png"
-    headline: Hello!
+    headline: ''
+    undefined: "uploads/2018/10/31/user.png"
   col_2:
     content: '<span style="text-decoration: underline;">Nal Kalchbrenner</span> (Staff
       Research Scientist, Google Brain, ex-DeepMind, author of PixelRNN, WaveNet,
       WaveRNN): <strong><em>“You’re building the book on modern machine learning.”</em></strong>'
     headline: ''
-    undefined: "/uploads/2018/10/31/user.png"
+    undefined: "uploads/2018/10/31/user.png"
   col_3:
     content: '<span style="text-decoration: underline;">Peter (Xi) Chen</span> (CEO
       of Covariant.AI, ex-OpenAI, first author of InfoGAN): <strong><em>“Awesome initiative
       - we can use a lot more resources like this in our community."</em></strong>'
     headline: ''
-    undefined: "/uploads/2018/10/31/user.png"
-- template: text-only-hero-banner
-  block: hero-1
-  background: "#66FDF8"
-  heading: '<span style="text-decoration: underline;">We are now launching the DFL
-    Fellowship!</span>'
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  content: We want to enable motivated students to lead independent study groups and
-    help them compile their work in a organized fashion.
-  headline: "<strong>Depth First Learning Fellowship. </strong>"
-- template: detail-content
-  block: text-1
-  headline: 'We want to support more people in producing high-quality curricula for
-    machine learning concepts and papers. '
-  content: "<p>As part of our fellowship, we're awarding <strong>$5000</strong> to
-    motivated students or researchers to lead their own small discussion group centered
-    around a particular paper or concept in machine learning.<br><br>More specifically,
-    we want to provide resources for guides to construct a 4-6 week, high-quality
-    curriculum to lead a small group of students remotely over video conferences.</p>"
+    undefined: "uploads/2018/10/31/user.png"
+- template: 1-column-text
+  block: one-column-1
+  background: "#999999"
+  headline: "<hr/> <br/>	<span style='font-size: 200%'>Announcing the Depth First Learning Fellowship</span>"
+  content: "<div style='background-color: #ffc; padding-top: 20px; padding-bottom: 20px; width; 700px;'><div style='max-width: 660px; margin-right: auto; margin-left: auto'><p>We are looking for guides to lead new DFL study groups, each based around
+a high-quality curricula for a particular paper or concept in machine learning.
+</p>
+<br />
+<p>
+Towards this end, we are launching
+the Depth First Learning fellowship. Chosen fellows will each be given a <strong>$4000 grant</strong>,
+to help them design the curricula for a DFL class, that will be held over 4-6 weeks remotely over video conferencing.
+</p>
+<br />
+<p>
+We will support each group by finding
+6-8 motivated students with the relevant background experience, and connecting fellows
+with
+experts in the field to act as advisors.</p></div></div><br/><br/><hr/>"
 - template: simple-footer
   block: footer-1
   content: Please reach out to <a href="" title="">depthfirstlearning@gmail.com</a>
