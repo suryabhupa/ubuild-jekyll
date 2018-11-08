@@ -109,11 +109,17 @@ experts in the field to act as advisors.</p>
 <br/>
 <p>
 <strong>A great candidate would:</strong><br/>
-Brains<br/>
-Brawns<br/>
+<ul>
+ <li> <i>exhibit mathematical maturity</i>. We want to encourage fellows to target papers which introduce fundamental ideas in modern machine learning. Previous experience with organinzing classes is a bonus! </li>
+ <li> <i>commit strongly to make the DFL sessions a success</i>: This primarily entails
+designing curricula with sufficient rigour and exercises for the classes. From previous iterations, we estimate this to be 8-10 hours(?) of time commitment for developing curriculum for each week, alongside regular feedback from the advisors.</li>
+ <li> <i>value diversity </i>: Encourage positive interaction in study sessions.</li>
+<ul/><br/>
+</p>
 
-<br />
-<p>
+<p> We are accepting applications till <strong>16th December, 2018</strong> for the first class
+of DFL fellows, where we expect to support 4 fellows through this exciting
+journey! <br /><br />
 <a class='button primary' href='/foo' target='_blank'>Apply Now</a>
 </p>
 </div></div><br/><br/><hr/>"
