@@ -59,11 +59,13 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Growing DFL with your help.
-  content: Since our launch, we’ve received very positive feedback from students and
+  content: "Since our launch, we’ve received very positive feedback from students and
     researchers around the world. Now, we want to run new, online classes around the
     world.<br><br>
+    <span style='color: red;'> TODO: Put image on the right with a screenshot of what
+    a DFL on-line class looks like.</span>"
   media:
-    image: "/uploads/2018/11/07/Screen Shot 2018-11-07 at 6.45.38 PM.png"
+    image: ""
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -92,7 +94,7 @@ page_sections:
   block: one-column-1
   background: "#999999"
   headline: "<br/>	<span style='font-size: 200%'>Announcing the Depth First Learning Fellowship</span>"
-  content: "<div style='background-color: #B5DFF5; padding-top: 30px; padding-bottom: 40px; max-width: 740px; margin-left: auto; margin-right: auto; padding-left: 30px; padding-right: 30px';><div style='max-width: 660px; margin-right: auto; margin-left: auto;'><p>We are looking for guides to lead new DFL study groups, each based around
+  content: "<div style='background-color: #B5DFF5; padding-top: 30px; padding-bottom: 40px; max-width: 740px; margin-left: auto; margin-right: auto; padding-left: 30px; padding-right: 30px';><div style='max-width: 660px; margin-right: auto; margin-left: auto;'><p><span style='color: red;'>TODO: Fix styling on this to fit more smoothly into the rest of the page</span><br/><br/> We are looking for guides to lead new DFL study groups, each based around
 a high-quality curricula for a particular paper or concept in machine learning.
 </p>
 <br />
