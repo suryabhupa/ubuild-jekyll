@@ -9,8 +9,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Depth First Learning Fellowship
-  content: 'We''re Avital, Surya, and Cinjon from Google Brain, DeepMind, FAIR, and
-    NYU, and we''re launching the <span style="text-decoration: underline;">Depth
+  content: 'We''re <a href="https://twitter.com/avitaloliver" target="_blank">Avital</a>, <a href="https://twitter.com/suryabhupa" target="_blank">Surya</a>, <a href="https://twitter.com/cinjoncion" target="_blank">Cinjon</a> and <a href="https://twitter.com/kumaragrawal" target="_blank">Krishna</a> from Google Brain, DeepMind, FAIR, and
+    NYU, and we''re launching the <span style="text-decoration: underline; font-weight: bold;">Depth
     First Learning Fellowship</span> to help more students and researchers lead their
     own independent study groups.'
   cta:
