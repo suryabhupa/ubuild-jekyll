@@ -15,8 +15,9 @@ page_sections:
     own independent study groups.'
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://airtable.com/shreoV6DyakepEFgF
     button_text: Apply Now
+    target: _blank
   image:
     image: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
     alt_text: DFL x Jane St.
@@ -121,7 +122,7 @@ designing curricula with sufficient rigour and exercises for the classes. From p
 <p> We are accepting applications till <strong>16th December, 2018</strong> for the first class
 of DFL fellows, where we expect to support 4 fellows through this exciting
 journey! <br /><br />
-<a class='button primary inverted' href='/foo' target='_blank'>Apply Now</a>
+<a class='button primary inverted' href='https://airtable.com/shreoV6DyakepEFgF' target='_blank'>Apply Now</a>
 </p>
 </div></div><br/><br/><hr/>"
 - template: simple-footer
