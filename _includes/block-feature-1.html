@@ -9,7 +9,9 @@
         <p>{{ section.content }}</p>
       </div>
       <div class="column media">
-        <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
+        <img src="{{ section.media.image | relative_url }}" alt="{{
+	section.media.alt_text }}" style="box-shadow:5px 10px 8px #888888; padding: 10px 10px 20px 10px;
+    border: 1px solid #BFBFBF;">
       </div>
     </div>      
   </div>
