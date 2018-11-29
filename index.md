@@ -12,9 +12,8 @@ page_sections:
     own independent study groups. The DFL Fellowship is generously funded by <a href="http://www.janestreet.com/" target="_blank">Jane Street</a>. 
   cta:
     enabled: true
-    url: https://airtable.com/shreoV6DyakepEFgF
+    onclick: "window.scrollBy({behavior: 'smooth', top: document.getElementById('apply_section').getBoundingClientRect().top})"
     button_text: Apply Now
-    target: _blank
   image:
     image: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
     alt_text: DFL x Jane St.
@@ -90,7 +89,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   background: "#999999"
-  headline: "<br/>	<span style='font-size: 200%'>Announcing the Depth First Learning Fellowship</span>"
+  headline: "<br/>	<span id='apply_section' style='font-size: 200%'>Apply to the Depth First Learning Fellowship</span>"
   content: "<div style='background-color: #B5DFF5; padding-top: 30px; padding-bottom: 40px; max-width: 740px; margin-left: auto; margin-right: auto; padding-left: 30px; padding-right: 30px';><div style='max-width: 660px; margin-right: auto; margin-left: auto;'><p><span style='color: red;'>TODO: Fix styling on this to fit more smoothly into the rest of the page</span><br/><br/> We are looking for guides to lead new DFL study groups, each based around
 a high-quality curricula for a particular paper or concept in machine learning.
 </p>
