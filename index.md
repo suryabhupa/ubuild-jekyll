@@ -9,7 +9,7 @@ page_sections:
   content: 'We''re <a href="https://twitter.com/avitaloliver" target="_blank">Avital</a>, <a href="https://twitter.com/suryabhupa" target="_blank">Surya</a>, <a href="https://twitter.com/cinjoncion" target="_blank">Cinjon</a> and <a href="https://twitter.com/kumaragrawal" target="_blank">Krishna</a> from Google Brain, DeepMind, FAIR, and
     NYU, and we''re launching the <span style="text-decoration: underline; font-weight: bold;">Depth
     First Learning Fellowship</span> to help more students and researchers lead their
-    own independent study groups. The DFL Fellowship is generously funded by <a href="http://www.janestreet.com/" target="_blank">Jane Street</a>.' 
+    own independent study groups. The DFL Fellowship is generously funded by <a href="http://www.janestreet.com/" target="_blank">Jane Street</a>.'
   cta:
     enabled: true
     onclick: "window.scrollBy({behavior: 'smooth', top: document.getElementById('apply_section').getBoundingClientRect().top})"
@@ -113,7 +113,7 @@ experts in the field to act as advisors.</p>
 <br/>
 </p>
 <br />
- <p><b>exhibit mathematical maturity</b>: We want to encourage fellows to target papers which introduce fundamental ideas in modern machine learning.</p> 
+ <p><b>exhibit mathematical maturity</b>: We want to encourage fellows to target papers which introduce fundamental ideas in modern machine learning.</p>
 <br />
   <p><b>effectively communicate scientific ideas</b>: A primary responsibility of the fellow is effectively communicate ideas central to research papers, and moderate discussions with fellow participants. Previous experience with teaching or organinzing classes is a bonus.</p>
 <br />
@@ -128,7 +128,7 @@ designing curricula with sufficient rigour and exercises for the classes. From p
 <br/>
 
 <p> We are accepting applications until February 15th, 2019 for the first class
-of DFL fellows, where we expect to support 4 fellows through this exciting
+of DFL fellows, where we will support 4 fellows through this exciting
 journey! <br /><br />
 <a class='button primary inverted' href='https://airtable.com/shreoV6DyakepEFgF' target='_blank'>Apply Now</a>
 </p>
