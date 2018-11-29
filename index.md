@@ -59,7 +59,7 @@ page_sections:
     researchers around the world. Now, we want to run new, online classes around the
     world.<br><br>"
   media:
-    image: "/uploads/2018/11/29/dfl_class.gif"
+    image: "/uploads/2018/11/29/dfl_class_demo.gif"
 - template: 3-column-text
   block: three-column-1
   col_1:
