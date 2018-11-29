@@ -3,9 +3,6 @@ layout: blocks
 title: Depth First Learning Fellowship
 date: 2018-11-20 23:00:00 +0000
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2018/10/11/Depth First Learning icon by rotated.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: Depth First Learning Fellowship
