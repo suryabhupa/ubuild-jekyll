@@ -12,7 +12,7 @@ page_sections:
   content: 'We''re <a href="https://twitter.com/avitaloliver" target="_blank">Avital</a>, <a href="https://twitter.com/suryabhupa" target="_blank">Surya</a>, <a href="https://twitter.com/cinjoncion" target="_blank">Cinjon</a> and <a href="https://twitter.com/kumaragrawal" target="_blank">Krishna</a> from Google Brain, DeepMind, FAIR, and
     NYU, and we''re launching the <span style="text-decoration: underline; font-weight: bold;">Depth
     First Learning Fellowship</span> to help more students and researchers lead their
-    own independent study groups.'
+    own independent study groups. The DFL Fellowship is generously funded by <a href="http://www.janestreet.com/" target="_blank">Jane Street</a>. 
   cta:
     enabled: true
     url: https://airtable.com/shreoV6DyakepEFgF
@@ -60,7 +60,7 @@ page_sections:
   media_alignment: Right
   headline: Growing DFL with your help.
   content: "Since our launch, we’ve received very positive feedback from students and
-    researchers around the world. Now, we want to run new, online classes around the
+    researchers. Now, we want to run new, online classes around the
     world.<br><br>
     <span style='color: red;'> TODO: Put image on the right with a screenshot of what
     a DFL on-line class looks like.</span>"
@@ -133,7 +133,7 @@ designing curricula with sufficient rigour and exercises for the classes. From p
 </p>
 <br/>
 
-<p> We are accepting applications till for the first class
+<p> We are accepting applications till January 1st, 2019 for the first class
 of DFL fellows, where we expect to support 4 fellows through this exciting
 journey! <br /><br />
 <a class='button primary inverted' href='https://airtable.com/shreoV6DyakepEFgF' target='_blank'>Apply Now</a>
