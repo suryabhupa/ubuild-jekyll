@@ -133,7 +133,7 @@ designing curricula with sufficient rigour and exercises for the classes. From p
 </p>
 <br/>
 
-<p> We are accepting applications till January 1st, 2019 for the first class
+<p> We are accepting applications till February 15th, 2019 for the first class
 of DFL fellows, where we expect to support 4 fellows through this exciting
 journey! <br /><br />
 <a class='button primary inverted' href='https://airtable.com/shreoV6DyakepEFgF' target='_blank'>Apply Now</a>
