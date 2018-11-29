@@ -56,12 +56,10 @@ page_sections:
   media_alignment: Right
   headline: Growing DFL with your help.
   content: "Since our launch, we’ve received very positive feedback from students and
-    researchers. Now, we want to run new, online classes around the
-    world.<br><br>
-    <span style='color: red;'> TODO: Put image on the right with a screenshot of what
-    a DFL on-line class looks like.</span>"
+    researchers around the world. Now, we want to run new, online classes around the
+    world.<br><br>"
   media:
-    image: ""
+    image: "/uploads/2018/11/29/dfl_class.gif"
 - template: 3-column-text
   block: three-column-1
   col_1:
