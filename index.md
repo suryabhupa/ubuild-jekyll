@@ -134,6 +134,14 @@ journey! <br /><br />
 <p style='text-align: center'>
 <a class='button primary inverted' href='https://airtable.com/shreoV6DyakepEFgF' target='_blank'>Apply Now</a>
 </p>
+<br/>
+<p>
+<div style='margin-top: 15px; margin-left: auto; margin-right: auto; max-width: 300px'>
+<a href='https://janestreet.com' target='_blank'>
+<img src='assets/fellowship-logo2-01.png' style='max-width: 100%; max-height: 100%'/>
+</a>
+</div>
+</p>
 </div></div><br/><br/>"
 - template: simple-footer
   block: footer-1
