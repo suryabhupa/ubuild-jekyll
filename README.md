@@ -1,5 +1,11 @@
 ![uBuild Blocks](uploads/2018/06/21/theme.png)
 
+# How to run this locally
+
+```sh
+bundle exec jekyll serve
+```
+
 # uBuild Jekyll Theme
 
 [View the announcement post on Forestry.io](https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/#/)
